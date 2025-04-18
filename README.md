@@ -74,6 +74,6 @@
 
 ### Competitive Programming Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Beat_The_Sky?ext=contest" alt="LeetCode Stats" width="40%" />
+  <img src="https://leetcard.jacoblin.cool/Soumadip_Mishra?ext=contest" alt="LeetCode Stats" width="40%" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Competive_Programmer" alt="Codeforces Stats" width="40%" />
 </p>
